@@ -3,3 +3,8 @@
 ################################################################################
 
 /.vs
+/DAL/obj
+/UI/.vs/UI
+/UI/bin/Debug/net9.0
+/UI/bin/Debug/net9.0/appsettings.Development.json
+/UI/obj
